@@ -9,3 +9,5 @@ In the cells.csv dataset, the columns represent the genes/markers and rows repre
 * Visualise the Original, Standard and Z-Score normalised data in Complex Heatmaps in R.
 * Annotate the heatmaps with patientID and indication to expedite data analysis.
 * Develop a ShinyApp for further user interaction and analysis of patient data, with dropdown options to select the type of available heatmap and turn on/off the column annotations as preferred. 
+
+<img width="1426" alt="image" src="https://github.com/estherteo/ShinyApp-Interactive-Complex-Heatmap/assets/104299126/6aaf26bf-ad2b-4f6e-9940-b0de61d86efd">
